@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Babalar Günü</title>
+</head>
+<body bgcolor="White">
+<div style="text-align: center;">
+    <h1>❤️Dünyanın En İyi Babasına❤️</h1>
+</div>
+<br>
+<br>
+<br><div style="display: flex; align-items: center;">
+    <img src="WhatsApp Image 2026-06-21 at 13.48.16.jpeg" width="250">
+
+    <div style="margin-left: 20px;">
+        <h2>Sevgili babam,</h2>
+        <h2>
+Senin bize karşı duyduğun sevgine layık olmasada sana küçük bir web sitesi hazırlamaya çalıştık.
+Bu web sitede sana olan sevgimizi tek tek anlatıp fotoğraflarla anıları yeniden canlandırmaya çalıştık umarım beğenirsin seni çok seviyoruz❤️
+        </h2>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<img src="WhatsApp Image 2026-06-21 at 13.49.46.jpeg" alt="Fotoğraf" width="250">
+<img src="Ekran görüntüsü 2026-06-21 140107.png" alt="Fotoğraf" width="650">
+<img src="küçüklüğümüz.png" alt="Fotoğraf" width="900">
+<br>
+<h2>Seninle birçok güzel zamanlar geçirdik.Bizi bu zamana kadar baba şefkatinle büyüttüğün için sana minnettarız işte sana söylemek istediğimiz birkaç şey.</h2>
+<br><div style="display: flex; align-items: center;">
+    <img src="WhatsApp Image 2026-06-21 at 13.56.51.jpeg" width="250">
+
+    <div style="margin-left: 20px;">
+        <h2>YUSUF</h2>
+        <h2>
+Canım Babacığım Babalar Günün Kutlu Olsun!Seni Çok Seviyoruz İyi Ki Varsın❤️
+        </h2>
+    </div>
+</div>
+<br><div style="display: flex; align-items: center;">
+    <img src="Ekran görüntüsü 2026-06-21 140348.png" width="250">
+
+    <div style="margin-left: 20px;">
+        <h2>EDA NUR</h2>
+        <h2>
+Benim aslan babam,benim yakışıklı babam,benim güzel babam,ben sana kalbimi veriyorum kalbim sana hediye seni çok seviyorum❤️Babalar günün kutlu olsun❤️
+        </h2>
+    </div>
+</div>
+<br><div style="display: flex; align-items: center;">
+    <img src="Ekran görüntüsü 2026-06-21 140501.png" width="250">
+
+    <div style="margin-left: 20px;">
+        <h2>TAHA EYMEN</h2>
+        <h2>
+Canım babam bizi şefkatinle büyüttün ve benim sana karşı duyduğum sevgi de hiç azalmadı.Seni çok seviyorum ve bizim için yaptığın herşey için teşekkürler iyiki varsın babalar günün kutlu olsun❤️
+        </h2>
+    </div>
+</div>
+<div style="text-align: center;">
+    <h1>❤️BABALAR GÜNÜN KUTLU OLSUN❤️</h1>
+</div>
+<br>
+<img src="WhatsApp Image 2026-06-21 at 15.04.50.jpeg" alt="Fotoğraf" style="display: block; margin: auto;">
+</body>
+</html>
